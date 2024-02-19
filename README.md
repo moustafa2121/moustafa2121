@@ -38,9 +38,8 @@
 <img src="https://img.shields.io/badge/-Aseprite-05122A?style=flat&logo=Aseprite" height="25" width="auto" alt="Aseprite logo" />&nbsp;
 
 
-## Projects
-
-My Webapps
+## Personal Projects
+Webapps
 1. [Flashback](https://github.com/moustafa2121/Project-Flashback): An internet time machine.
 2. [Market Scanner](https://github.com/moustafa2121/MarketScanner): Compile vape products from several websites and compares/filter them.
 3. [Time Tracker](https://github.com/moustafa2121/TimeTrack2): Time Tracking project.
