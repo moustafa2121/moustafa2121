@@ -1,20 +1,12 @@
+## About Me 
+- 💡I'm a full stack web developer.
+- 💻 Currently looking for a full-time job as full stack developer with focus on backend and machine learning.
+- 🔭 I’m currently working on: Price tracking webapp and an indie video game.
+- 👯 I’m looking to collaborate on: Any project with practical real-world applications, preferably involves ML.
+
+## How to reach me
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-aljammali-61b46a2b4/)
 <a href="moustafa2121@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-
-I'm Mustafa, a full stack web developer with interest in backend development and Machine Learning.
-
-## About Me 
-- 💻 Currently exploring the exciting world of backend development and machine learning.
-- 📚 Constantly learning and staying updated with the latest technologies and trends in the industry.
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
--->
 
 ## Tech Stack
 ### Languages proficient in:
@@ -48,13 +40,13 @@ Here are some ideas to get you started:
 
 ## Projects
 
-Here are a few projects I've been working on:
+My Webapps
 1. [Flashback](https://github.com/moustafa2121/Project-Flashback): An internet time machine.
 2. [Market Scanner](https://github.com/moustafa2121/MarketScanner): Compile vape products from several websites and compares/filter them.
 3. [Time Tracker](https://github.com/moustafa2121/TimeTrack2): Time Tracking project.
 
 Ongoing
-
-
+1. [name pending]:  A webapp that records grocery prices on daily basis, tracks historical lows and highs, suggest where to buy groceries and when to get the best discounts.
+2. Paradeemo: An indie video game, 2D desk job simulator in a Biopunk alternative future.
 
 
