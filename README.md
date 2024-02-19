@@ -9,14 +9,14 @@
 <a href="mailto:moustafa2121@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ## Tech Stack
-### Languages proficient in:
+### Languages proficient in
 <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" height="25" width="auto" alt="Python logo"/>&nbsp;
 <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" height="25" width="auto" alt="JavaScript logo"/>&nbsp;
 <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5" height="25" width="auto" alt="html logo">&nbsp;
 <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6" height="25" width="auto" alt="css logo"/>&nbsp;
 <img src="https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c%23&logoColor=684D95" height="25" width="auto" alt="c# logo"/>&nbsp;
 
-### Languages familiar with:
+### Languages familiar with
 <img src="https://img.shields.io/badge/-Java-05122A?style=flat" height="25" width="auto" alt="java logo"/>&nbsp;
 <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=5E97D0" height="25" width="auto" alt="c logo"/>&nbsp;
 <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B&logoColor=5E97D0" height="25" width="auto" alt="c++ logo"/>&nbsp;
@@ -28,9 +28,18 @@
 <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask" height="25" width="auto" alt="Flask logo"/>&nbsp;
 <img src="https://img.shields.io/badge/Django%20REST-05122A?style=flat" height="25" width="auto" alt="RestFramework logo"/>&nbsp;
       
-### Others
+### Deployment
 <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" height="25" width="auto" alt="Docker logo" />&nbsp;
+<img src="https://img.shields.io/badge/-NGINX-05122A?style=flat&logo=nginx&logoColor=08bd26" height="25" width="auto" alt="Nginx logo" />&nbsp;
+<img src="https://img.shields.io/badge/-Gunicorn-05122A?style=flat&logo=Gunicorn" height="25" width="auto" alt="Gunicorn logo" />&nbsp;
+<img src="https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=googlecloud&logoColor=c20202" height="25" width="auto" alt="gcloud logo" />&nbsp;
+<img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" height="25" width="auto" alt="github logo" />&nbsp;
+
+### Others
 <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap" height="25" width="auto" alt="Bootstrap logo" />&nbsp;
+<img src="https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy&logoColor=4cc9f0" height="25" width="auto" alt="Numpy logo" />&nbsp;
+<img src="https://img.shields.io/badge/-OpenCV2-05122A?style=flat&logo=opencv" height="25" width="auto" alt="cv2 logo" />&nbsp;
+<img src="https://img.shields.io/badge/-scikit%20learn-05122A?style=flat&logo=scikit-learn" height="25" width="auto" alt="scikit logo" />&nbsp;
 
 ### GameDev
 <img src="https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity" height="25" width="auto" alt="Unity logo" />&nbsp;
