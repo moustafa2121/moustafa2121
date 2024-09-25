@@ -25,8 +25,9 @@
 ### Frameworks
 <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django" height="25" width="auto" alt="Django logo"/>&nbsp;
 <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" height="25" width="auto" alt="React logo"/>&nbsp;
+<img src="https://img.shields.io/badge/ReactNative-222222?style=for-the-badge&logo=React&logoColor=)" height="25" width="auto" alt="React Native logo"/>&nbsp;
 <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask" height="25" width="auto" alt="Flask logo"/>&nbsp;
-<img src="https://img.shields.io/badge/Django%20REST-05122A?style=flat" height="25" width="auto" alt="RestFramework logo"/>&nbsp;
+<img src="https://img.shields.io/badge/Django%20REST-05122A?style=flat" height="25" width="auto" alt="DjangoRest logo"/>&nbsp;
       
 ### Deployment
 <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" height="25" width="auto" alt="Docker logo" />&nbsp;
