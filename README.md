@@ -49,7 +49,7 @@
 
 
 Ongoing
-[Tekora](https://github.com/moustafa2121/Project-Flashback](https://drive.google.com/file/d/1Lms3HyoOgKsh7zaQrpLuvVuoMDs9KhS8/view?usp=sharing): A real-time football matching mobile application
+[Tekora](https://drive.google.com/file/d/1Lms3HyoOgKsh7zaQrpLuvVuoMDs9KhS8/view?usp=sharing): A real-time football matching mobile application
 
 ## Personal Projects
 Webapps
