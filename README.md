@@ -48,7 +48,7 @@
 <img src="https://img.shields.io/badge/-Aseprite-05122A?style=flat&logo=Aseprite" height="25" width="auto" alt="Aseprite logo" />&nbsp;
 
 
-Ongoing
+## Ongoing Projects
 [Tekora](https://drive.google.com/file/d/1Lms3HyoOgKsh7zaQrpLuvVuoMDs9KhS8/view?usp=sharing): A real-time football matching mobile application
 
 ## Personal Projects
