@@ -1,6 +1,6 @@
 ## About Me 
 - 💡I'm a full stack web developer and an indie game dev.
-- 💻 Currently looking for a full-time job as full stack developer with focus on backend and machine learning.
+- 💻 Currently looking for a full-time job as full stack developer with focus on backend.
 - 🔭 I’m currently working on: A real-time football matching mobile application.
 - 👯 I’m looking to collaborate on: Any project with practical real-world applications.
 
