@@ -1,8 +1,7 @@
 ## About Me 
 - 💡I'm a full stack web developer and an indie game dev.
 - 💻 Currently looking for a full-time job as full stack developer with focus on backend.
-- 🔭 I’m currently working on: A real-time football matching mobile application.
-- 👯 I’m looking to collaborate on: Any project with practical real-world applications.
+- 🔭 I’m currently working on: Indie games
 
 ## How to reach me
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-aljammali-61b46a2b4/)
